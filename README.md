@@ -1,2 +1,2 @@
 # lacticfirsthelloworld
-an interesting way of generating hello world with the help of c language
+an interesting way of generating hello world with the help of c language vansh
